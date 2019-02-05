@@ -1,4 +1,5 @@
 # Shopping-Cart
-first run *'node product-seeder.js'* which is in seed folder. It will create database for shopping in mongoDB. 
-After that you can run *'npm install'* to install depandancies for the project.
 
+### Please follow these instruction to run the project.
+   * `node product-seeder.js` which is to seed dummy data in database 
+   * `npm install` to install all depandancies
